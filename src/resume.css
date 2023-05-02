@@ -1,0 +1,19 @@
+.full{
+    margin: 0;
+    display: grid;
+    grid-template-columns: 2fr 4fr;
+}
+.left {
+    position: initial;
+    background-color: aqua;
+    padding: 20px;
+}
+.right{
+    background-color: cornflowerblue;
+
+}
+.photo{
+    margin-top: 15px;
+    margin-bottom: 30px;
+    margin-left: 30px;
+}
